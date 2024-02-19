@@ -13,11 +13,11 @@ const products = [
   { id: 1, name: 'Product 1', price: 10, image: Product1 },
   { id: 2, name: 'Product 2', price: 15, image: Product2 },
   { id: 3, name: 'Product 3', price: 20, image: Product3 },
-  { id: 3, name: 'Product 3', price: 50, image: Product4 },
-  { id: 3, name: 'Product 3', price: 100, image: Product5 },
-  { id: 3, name: 'Product 3', price: 150, image: Product6 },
-  { id: 3, name: 'Product 3', price: 200, image: Product7 },
-  { id: 3, name: 'Product 3', price: 210, image: Product8 },
+  { id: 4, name: 'Product 3', price: 50, image: Product4 },
+  { id: 5, name: 'Product 3', price: 100, image: Product5 },
+  { id: 6, name: 'Product 3', price: 150, image: Product6 },
+  { id: 7, name: 'Product 3', price: 200, image: Product7 },
+  { id: 8, name: 'Product 3', price: 210, image: Product8 },
   // Add more products here...
 ];
 
